@@ -1,0 +1,1 @@
+local Lib, oldminor = LibStub:NewLibrary("LibSpec-1.0", 10)
