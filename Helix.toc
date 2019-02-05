@@ -1,0 +1,13 @@
+## Interface: 80100
+
+## Title: Helix
+## Notes: Rotation framework
+## Author: Jonas Fromell
+
+Libs/AceAddon-3.0/AceAddon-3.0.lua
+Libs/LibStub/LibStub.lua
+
+Libs/LibAura-1.0/LibAura-1.0.lua
+Libs/LibRotation-1.0/LibRotation-1.0.lua
+
+Helix.lua
